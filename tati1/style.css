@@ -1,0 +1,67 @@
+body{ 
+	background-color: skyblue;
+}
+
+
+
+.casa{
+	background-color: yellow;
+	height: 500px; 
+	width: 800px;
+	position: absolute;
+	display: flex;
+	align-items: flex-end;
+
+}
+.telhado{
+	width:700px; 
+	height:0;
+	border:50px solid;
+	border-color: skyblue skyblue black skyblue;
+} 
+	
+
+.porta{
+	position: relative;
+	left: 30px;
+	width:200px; 
+	height:400px;
+	display: flex;
+ 	align-items: center;
+ 	background-color: brown;
+ 	border: double;
+
+ }
+.maçaneta{
+	position: relative;
+	width:30px; 
+	height:10px;
+	background-color:black;
+	display: flex;
+	justify-content: center;
+	top:-150px;
+}
+
+.janela{
+position: relative;
+top: -200px;
+left: 50px;
+width:200px; 
+height:200px;
+display: flex;
+background-color: white;
+border-radius: 50%;
+border:double;
+
+}
+.janela1{
+	position: relative;
+	top:-200px;
+	left: 100px;
+	width: 200px;
+	height:200px;
+	display:flex;
+	background-color: white;
+	border-radius: 50%;
+	border:double;
+}

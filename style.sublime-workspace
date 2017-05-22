@@ -1,0 +1,375 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"s",
+				"section\tTag"
+			],
+			[
+				"m",
+				"main\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"fl",
+				"flex-direction"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"backgroud",
+				"background-size"
+			],
+			[
+				"t",
+				"unset"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"D",
+				"display"
+			],
+			[
+				"a",
+				"align-items"
+			],
+			[
+				"align-",
+				"align-items"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"had",
+				"header\tTag"
+			],
+			[
+				"tras",
+				"transition-timing-function"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"fon",
+				"font-color"
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"f",
+				"footer\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"hea",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/vainaweb/Documentos/tatiana/style.css",
+		"/home/vainaweb/Documentos/Diogenes/index3.html",
+		"/home/vainaweb/Documentos/Diogenes/style3.css",
+		"/home/vainaweb/Documentos/Diogenes/index.html",
+		"/home/vainaweb/Documentos/Diogenes/stily.css",
+		"/home/vainaweb/Documentos/tatiana/index.html",
+		"/home/vainaweb/Documentos/aula 3/index.html",
+		"/home/vainaweb/Documentos/aula 3/style.css",
+		"/home/vainaweb/Grazy Perola/index.html",
+		"/home/vainaweb/Documentos/Diogenes/b1.jpg",
+		"/home/vainaweb/Documentos/Jonas/index.html",
+		"/home/vainaweb/Documentos/Jonas/stily.css",
+		"/home/vainaweb/Thiagoblacksanta.github.io/style.css",
+		"/home/vainaweb/Thiagoblacksanta.github.io/index.html",
+		"/home/vainaweb/Thiagoblacksanta.github.io/stilo.css",
+		"/home/vainaweb/Grazy Perola/dever2.html",
+		"/home/vainaweb/Grazy Perola/style.css",
+		"/home/vainaweb/Documentos/proa/script.js",
+		"/home/vainaweb/Documentos/proa/index.html",
+		"/media/vainaweb/Kitran Jay/Projects by Marcos Mello/5.5.17/index.html",
+		"/home/vainaweb/thiago/index.html",
+		"/home/vainaweb/prazeres/index.html",
+		"/home/vainaweb/Documentos/aula 3/untitled",
+		"/home/vainaweb/Documentos/aula2/index.html",
+		"/home/vainaweb/Documentos/aula1/index.html",
+		"/home/vainaweb/Documentos/aula1/aline2.html",
+		"/home/vainaweb/Documentos/aula1/aline.html",
+		"/home/vainaweb/Documentos/aula1/aline .",
+		"/home/vainaweb/Documentos/Aula 01/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/home/vainaweb/Documentos/tatiana"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"; "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
